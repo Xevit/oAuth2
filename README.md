@@ -10,7 +10,7 @@ Avances:
 		
 - Crema para tema Gradle en Eclipse config y build.gradle : http://www.vogella.com/tutorials/EclipseGradle/article.html
 
--	Para lanzar las aplicaciones sin utilizar servidor de aplicaciones he seguido los pasos de: https://guides.gradle.org/building-java-web-applications/
+- Para lanzar las aplicaciones sin utilizar servidor de aplicaciones he seguido los pasos de: https://guides.gradle.org/building-java-web-applications/
 	Entre otras cosas he hecho "gradle wrapper --gradle-version=4.9" para poder usar "./gradlew appRun".
 	"./gradlew appRun" sirve para lanzar como si fuera un servidor de aplicaciones todo el código sin necesidad de Tomcat o Wildfly.
 	"./gradlew build" sirve para lanzar los test que hayamos hecho y te devuelve la solución en "build/reports/tests/test/index.htm"
@@ -18,10 +18,10 @@ Avances:
 - Para el próximo día Githubear:
 	https://stackoverflow.com/questions/17552457/how-do-i-upload-eclipse-projects-to-github
 	Step:
-		-1. En la localización donde tengamos el proyecto hacer: "git init"
-		-2. Añadimos una variable "origin": "git remote add origin https://github.com/[username]/[reponame].git"
-		-3. Añadimos todos los elementos para commitearlos: "git add ."
-		-4. Hacemos un pull para testear que todo está actualizado: "git pull origin master --allow-unrelated-histories"
-		-5. 
+		- 1. En la localización donde tengamos el proyecto hacer: "git init"
+		- 2. Añadimos una variable "origin": "git remote add origin https://github.com/[username]/[reponame].git"
+		- 3. Añadimos todos los elementos para commitearlos: "git add ."
+		- 4. Hacemos un pull para testear que todo está actualizado: "git pull origin master --allow-unrelated-histories"
+		- 5. 
 		
 - Para el próximo día poner el debugeador "https://stackoverflow.com/questions/33035922/debug-java-program-by-executing-gradle-run"
