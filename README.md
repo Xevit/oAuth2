@@ -22,6 +22,6 @@ Avances:
 		- 2. Añadimos una variable "origin": "git remote add origin https://github.com/[username]/[reponame].git"
 		- 3. Añadimos todos los elementos para commitearlos: "git add ."
 		- 4. Hacemos un pull para testear que todo está actualizado: "git pull origin master --allow-unrelated-histories"
-		- 5. 
+		- 5. Subimos todo lo que tenemos: "git commit -a -m "Initial commit""
 		
 - Para el próximo día poner el debugeador "https://stackoverflow.com/questions/33035922/debug-java-program-by-executing-gradle-run"
