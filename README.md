@@ -18,10 +18,10 @@ Avances:
 - Para el próximo día Githubear:
 	https://stackoverflow.com/questions/17552457/how-do-i-upload-eclipse-projects-to-github
 	Step:
-		1.- En la localización donde tengamos el proyecto hacer: "git init"
-		2.- Añadimos una variable "origin": "git remote add origin https://github.com/[username]/[reponame].git"
-		3.- Añadimos todos los elementos para commitearlos: "git add ."
-		4.- Hacemos un pull para testear que todo está actualizado: "git pull origin master --allow-unrelated-histories"
-		5.- 
+		-1. En la localización donde tengamos el proyecto hacer: "git init"
+		-2. Añadimos una variable "origin": "git remote add origin https://github.com/[username]/[reponame].git"
+		-3. Añadimos todos los elementos para commitearlos: "git add ."
+		-4. Hacemos un pull para testear que todo está actualizado: "git pull origin master --allow-unrelated-histories"
+		-5. 
 		
 - Para el próximo día poner el debugeador "https://stackoverflow.com/questions/33035922/debug-java-program-by-executing-gradle-run"
